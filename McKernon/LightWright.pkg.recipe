@@ -11,7 +11,7 @@ The package installer will be located in the cache at %NAME%/LW5MacInstaller.mpk
     <key>Identifier</key>
     <string>com.github.rareware.pkg.lightwright</string>
     <key>Input</key>
-    <dict/>
+<dict>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
@@ -40,4 +40,5 @@ The package installer will be located in the cache at %NAME%/LW5MacInstaller.mpk
         </dict>
 	</array>
 </dict>
+    </dict>
 </plist>
